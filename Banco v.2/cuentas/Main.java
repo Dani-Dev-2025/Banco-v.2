@@ -4,7 +4,7 @@ public class Main {
 	/* 
 	 * este es un comentario que sólo sirve para ver comprobar que 
 	 * aparece en la página GitHub tras realizar un segundo commit 
-	 * y otro push
+	 * y otro push.
 	 */
 	
     public static void main(String[] args) {
